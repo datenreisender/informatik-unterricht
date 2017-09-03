@@ -1,13 +1,11 @@
-# 1. Termin
-
-## Ziele
-### Hauptziele
+# Ziele
+## Hauptziele
 
 - Die SuS haben Lust auf den Unterricht
 - Ich habe die SuS kennengelernt
 - Ich bin zuversichtlich für die nächsten Monate
 
-### Nachgelagerte Ziele
+## Nachgelagerte Ziele
 
 Die SuS wissen:
 - ungefähr, welche Inhalte sie in den nächsten Monaten lernen
@@ -27,7 +25,7 @@ Die SuS wissen:
 Ich weiß:
 - ungefähr über den Hintergrund der SuS und was ihre Ideen und Wünsche zum Informatikunterricht sind
 
-## Vorgehen
+# Vorgehen
 - Zwei Sätze Einleitung, dann Kaltstart: Du willst Ihr per WhatsApp eine Nachricht schicken. Was meint Ihr, was ist alles dafür nötig, damit das überhaupt geht?
 	- Dinge auf Zuruf sammeln und in unterschiedliche Richtungen Hinweise geben (Software, Hardware, Netzwerk, unterschiedliche Bestandteile und Ausprägungen davon, …)
 	- Dinge sichtbar mitschreiben
@@ -53,7 +51,7 @@ Ich weiß:
 
 - Vorstellung des ersten Projekts
 
-## Vermutlich noch nicht in der ersten Stunde, aber schon fertig vorbereitet haben
+# Vermutlich noch nicht in der ersten Stunde, aber schon fertig vorbereitet haben
 
 - Was soll das Programm können? Was sind seine Features?
 - Idee: Nicht nur Eigenschaften, sondern Geschichten/Umgang
