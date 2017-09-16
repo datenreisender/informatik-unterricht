@@ -1,0 +1,3 @@
+- 45 Minuten: Einleitung + Vorstellungsrunde
+- 25 Minuten: Projektarbeit vorstellen
+- 20 Minuten: Start in das Projekt, 1. Aufgabe
