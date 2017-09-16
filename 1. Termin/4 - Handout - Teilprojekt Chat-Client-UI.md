@@ -6,6 +6,8 @@ Die Benutzungsoberfläche (auch: GUI oder UI – User Interface) ist ein für de
 
 Diese Oberfläche setzen wir dann mit HTML um, um sie noch konkreter betrachten zu können
 
+In den nächsten Stunden braucht ihr Karopapier, habt welches dabei!
+
 ## Umfang
 4 Doppelstunden + Hausaufgabenzeit, umgesetzt in Teams aus 4 SuS
 

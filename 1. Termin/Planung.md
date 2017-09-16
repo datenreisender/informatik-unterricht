@@ -14,19 +14,19 @@ Die SuS wissen:
 - wie sie benotet werden:
   - 1 Klausur (Wann?)
   - 1 Arbeitsergebnis wird schriftliches Ergebnis. Ich werde klar machen, welches dies ist.
-  - Mündliche Mitarbeit
-- welches Material sie brauchen (ruhig auch mit auf Zettel o.ä. schreiben, die die SuS bekommen)
+  - Mündliche Mitarbeit (Benotung der einzelnen auch in der Gruppenarbeit)
+- welches Material sie brauchen
 - mit wem sie die nächsten Wochen zusammenarbeiten.
 
 - Die SuS haben Lust auf den Unterricht
     - Manche könnten noch antriebsarm sein, weil sie noch mehr in den Sommerferien hängen.
-    - Manche könnten den Unterricht weniger Ernst nehmen, weil es ja nur das Wahlfach Informatik ist.
+    - Manche könnten den Unterricht weniger Ernst nehmen, weil es ja „nur“ das Wahlfach Informatik ist.
 
 Ich weiß:
 - ungefähr über den Hintergrund der SuS und was ihre Ideen und Wünsche zum Informatikunterricht sind
 
 # Vorgehen
-- Zwei Sätze Einleitung, dann Kaltstart: Du willst Ihr per WhatsApp eine Nachricht schicken. Was meint Ihr, was ist alles dafür nötig, damit das überhaupt geht?
+- Zwei Sätze Einleitung, dann Kaltstart: Du willst ihr per WhatsApp eine Nachricht schicken. Was meint Ihr, was ist alles dafür nötig, damit das überhaupt geht?
 	- Dinge auf Zuruf sammeln und in unterschiedliche Richtungen Hinweise geben (Software, Hardware, Netzwerk, unterschiedliche Bestandteile und Ausprägungen davon, …)
 	- Dinge sichtbar mitschreiben
 
@@ -44,6 +44,7 @@ Ich weiß:
   - „Gibt keine HA, aber ihr werdet zuhause arbeiten müssen.“
   - Ist keine Projektwoche.
   - Entweder kommen Fragen oder nicht, aber sie wissen es eher nicht.
+- Ganz viel selber machen
 - Selbständiges arbeiten!
 - Welche Rolle nehmen sie und ich ein. Was sind die Verantwortlichkeiten.
 - Viel Arbeit in Gruppen. D.h. aber alle müssen etwas machen!

@@ -18,7 +18,6 @@ Ca. 20 Doppelstunden
     - Nachforschen zu Details
     - Ergebnisse sichtbar machen!
 - Ich unterstütze Euch, kommt auf mich zu!
-- In den nächsten Stunden braucht ihr Karopapier, habt welches dabei!
 
 ## Teilprojekte
 - Entwurf eines Chat-Client-UIs
