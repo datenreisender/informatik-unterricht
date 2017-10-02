@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>HTML - eine (unvollständige) Übersicht</title>
+  <style>td, th, table { border: thin solid; }</style>
+</head>
+
+<body>
+
+<h1>HTML - eine (unvollständige) Übersicht</h1>
+
+<h2>Grundsätzliches</h2>
+<p>Guckt Euch den Quelltext dieser Seite an, um zu verstehen, wie einzelne Sachen in HTML aussehen!</p>
+
+<p>Der Grundaufbau einer HTML-Seite:</p>
+<pre>
+  &lt;!DOCTYPE html&gt;
+  &lt;html&gt;
+  	&lt;head&gt;
+  		&lt;title&gt;Meine erste HTML-Seite&lt;/title&gt;
+  	&lt;/head&gt;
+  	&lt;body&gt;
+  		Hier steht das allermeiste auf HTML-Seiten, bloß in diesem Bespiel ist es wenig.
+  	&lt;/body&gt;
+  &lt;/html&gt;
+</pre>
+
+<h2>Überschriften</h2>
+<h3>Kleinere Überschrift</h3>
+<h4>Noch kleinere Überschrift</h4>
+<h5>Langsam ist es klar, oder?</h5>
+
+<h2>Schrift</h2>
+<p>Dies ist ein Absatz</p>
+<p>Dies ist ein weiterer Absatz, in dem <em>etwas hervorgehoben</em> und noch etwas <strong>stark hervorgehoben</strong> ist.</p>
+<p>Und hier ist ein <a href="https://de.wikipedia.org/wiki/Wikipedia:Hauptseite">Link zur Wikipedia</a>.</p>
+
+<h2>Besondere Zeichen</h2>
+Da &lt; und &gt; normalerweise HTML-Tags beschreiben, kann man sie nicht einfach so in den Text schreiben, wenn sie auf der Seite erscheinen sollen. Ähnlich mit &amp;.
+
+<h2>Listen</h2>
+<h3>Geordnete Listen</h3>
+<h4>Arabische Nummern</h4>
+<ol>
+  <li>Listenelement 1</li>
+  <li>Listenelement 2</li>
+  <li>Listenelement 3</li>
+</ol>
+<h4>Kleinbuchstaben</h4>
+<ol type="a">
+  <li>Listenelement 1</li>
+  <li>Listenelement 2</li>
+  <li>Listenelement 3</li>
+</ol>
+<h3>Ungeordnete Listen</h3>
+<h4>Kreisförmiger Knopf</h4>
+<ul type="circle">
+  <li>Listenelement 1</li>
+  <li>Listenelement 2</li>
+  <li>Listenelement 3</li>
+</ul>
+<h4>Quadratischer Knopf</h4>
+<ul type="square">
+  <li>Listenelement 1</li>
+  <li>Listenelement 2</li>
+  <li>Listenelement 3</li>
+</ul>
+
+<h2>Tabellen</h2>
+
+<h3>Einfach</h3>
+<table>
+  <tbody>
+    <tr>
+      <th>Überschrift 1</th>
+      <th>Überschrift 2</th>
+      <th>Überschrift 3</th>
+    </tr>
+    <tr>
+      <td>Inhalt 1.1</td>
+      <td>Inhalt 2.1</td>
+      <td>Inhalt 3.1</td>
+    </tr>
+    <tr>
+      <td>Inhalt 1.2</td>
+      <td>Inhalt 2.2</td>
+      <td>Inhalt 3.2</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Horizontal verbundene Felder</h3>
+<table>
+  <tbody>
+    <tr>
+      <th colspan="2">Überschrift 1</th>
+      <th>Überschrift 2</th>
+    </tr>
+    <tr>
+      <td>Inhalt 1.1</td>
+      <td colspan="2">Inhalt 1.1 und 2.1</td>
+    </tr>
+    <tr>
+      <td>Inhalt 1.2</td>
+      <td>Inhalt 2.2</td>
+      <td>Inhalt 3.2</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Vertikal verbundene Felder</h3>
+<table>
+  <tbody>
+    <tr>
+      <th>Überschrift 1</th>
+      <th rowspan="2">Überschrift 2</th>
+      <th>Überschrift 3</th>
+    </tr>
+    <tr>
+      <td>Inhalt 1.1</td>
+      <td>Inhalt 3.1</td>
+    </tr>
+    <tr>
+      <td>Inhalt 1.2</td>
+      <td>Inhalt 2.2</td>
+      <td>Inhalt 3.2</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Textstile</h2>
+
+<p>
+  <span style="font-size: xx-small;">Winzig</span>
+  <span style="font-size: small;">Klein</span>
+  <span style="font-size: medium;">Normal</span>
+  <span style="font-size: large;">Größer</span>
+  <span style="font-size: x-large;">Noch größer</span>
+  <span style="font-size: xx-large;">Riesig</span>
+</p>
+
+<p>
+  <span style="color: blue;">Blau</span>
+  <span style="color: red">Rot</span>
+  <span style="color: green">Grün</span>
+  <span style="color: orange">Orange</span>
+  <span style="color: brown">Braun</span>
+  <span style="color: lightblue">Hellblau</span>
+  <span style="color: lightgreen">Hellgrün</span>
+  <span style="color: #d04070">Meine Farbe</span>
+</p>
+
+<span style="color: green; font-size: x-large;">Ein grüner
+vergr&ouml;&szlig;erter Text.</span>
+
+Und außerdem:
+Ein <span style="font-weight: bold;">dicker</span>,
+<span style="text-decoration: underline;">unterstrichener,</span>
+<span style="font-style: italic;">kursiver</span>
+Text.
+
+<h2>Textausrichtung</h2>
+
+<h3>Zentrieren</h3>
+<p style="text-align: center;">Dieser Text ist zentriert. Dieser Text
+ist zentriert. Dieser Text ist zentriert. Dieser Text ist zentriert.
+Dieser Text ist zentriert. Dieser Text ist zentriert. Dieser Text ist
+zentriert. Dieser Text ist zentriert. Dieser Text ist zentriert. Dieser
+Text ist zentriert. Dieser Text ist zentriert. Dieser Text ist
+zentriert. Dieser Text ist zentriert.</p>
+
+<h3>Ausrichtung nach rechts</h3>
+<p style="text-align: right;">Dieser Text ist rechtsbündig
+ausgerichtet. Dieser Text ist rechtsbündig ausgerichtet.
+Dieser Text ist rechtsbündig ausgerichtet. Dieser Text ist
+rechtsbündig ausgerichtet. Dieser Text ist
+rechtsbündig ausgerichtet. Dieser Text ist
+rechtsbündig ausgerichtet.</p>
+
+<h3>Ausrichtung Blocksatz</h3>
+<p style="text-align: justify;">Dieser Text steht im
+Blocksatz. Dieser Text steht im Blocksatz. Dieser Text steht
+im Blocksatz. Dieser Text steht im Blocksatz. Dieser Text steht im
+Blocksatz. Dieser Text steht im Blocksatz. Dieser Text steht im
+Blocksatz. Dieser Text steht im Blocksatz. Dieser Text steht im
+Blocksatz. Dieser Text steht im Blocksatz. Dieser Text steht im
+Blocksatz. Dieser Text steht im Blocksatz. Dieser Text steht im
+Blocksatz. Dieser Text steht im Blocksatz. Dieser Text steht im
+Blocksatz. Dieser Text steht im Blocksatz. Dieser Text steht im
+Blocksatz. </p>
+
+</body>
+</html>
+
