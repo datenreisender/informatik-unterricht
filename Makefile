@@ -9,4 +9,4 @@ sync:
 
 diff:
 	[ -d "$(remote_dir)" ]
-	colordiff --unified --recursive --exclude=.DS_Store --exclude=Homepage dist "$(remote_dir)"
+	colordiff --unified --recursive --exclude=.DS_Store --exclude=Homepage dist "$(remote_dir)" && echo All is in sync!
