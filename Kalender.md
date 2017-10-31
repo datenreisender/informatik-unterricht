@@ -11,13 +11,24 @@
 
 # 2017-11
 1.  6. Termin
+  - Rückblick auf das vorherige Projekt
+    - Wie ist es gelaufen, was war gut, was war schlecht?
+    - Ergebnisse nächste Woche!
+  - Ausblick auf die nächsten Wochen
+  - Nächstes Thema einleiten und starten
 8.  7. Termin
+  - Tests schreiben
+  - Ergebnis des vorherigen Projektes
+  - Ergebnis des Tests?
 15. 8. Termin
-  Leistungsstand mitteilen (oder eine Woche früher)
+  - Leistungsstand mitteilen (oder eine Woche früher)
+  - Spätestens: Ergebnis des Tests!
 22. 9. Termin
+  - Spätestes: Zettelspiel und grundlegende Netzwerkonzepte
+  - Themen der Arbeit
 29. 10. Termin
   Schriftliche Arbeit
-	
+
 # 2017-12
 6.  11. Termin
 13. 12. Termin
